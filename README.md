@@ -1,5 +1,6 @@
 # collections
-Story of a HashMap
+## Story of a HashMap
+
 1️⃣ Declaring a HashMap
 Map<String, String> map = new HashMap<>();
 
