@@ -123,7 +123,7 @@ Multiple null values: Allowed.
 
 
 
-📖 Story of a LinkedList
+## Story of a LinkedList
 1️⃣ Declaring a LinkedList
 List<String> list = new LinkedList<>();
 
@@ -258,7 +258,7 @@ Useful in queues, stacks, LRU cache.
 “A LinkedList in Java is implemented as a doubly linked list. Each element is a Node that contains the data and references to both previous and next nodes. When I add elements, nodes are connected in sequence using prev and next. Unlike ArrayList, accessing elements requires traversal from head or tail, so get() is O(n). But insertion or deletion in the middle is very efficient, because it just needs pointer updates (O(1)). This makes LinkedList useful for cases where we frequently insert or remove items.”
 
 
-📖 Story of an ArrayList
+## Story of an ArrayList
 1️⃣ Declaring an ArrayList
 List<String> list = new ArrayList<>();
 
